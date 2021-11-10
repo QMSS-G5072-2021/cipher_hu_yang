@@ -1,5 +1,5 @@
 def cipher(text, shift, encrypt=True):
-     """
+    """
     Encrypt and decrypt letter text by using the Caesar cipher.
 
     Parameters
