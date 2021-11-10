@@ -1,4 +1,4 @@
-from cipher_yh3395.src.cipher_yh3395 import cipher_yh3395
+from cipher_yh3395.cipher_yh3395 import cipher
 
 def test_cipher_negshift():
     example = 'Lisa'
